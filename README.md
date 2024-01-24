@@ -11,5 +11,3 @@ py manage.py runserver
 ctrl + click a Starting development server at http://127.0.0.1:8000/
 
 usar los botones de navegacion disponibles en las paginas 
- 
-alguna duda consultar san google 
